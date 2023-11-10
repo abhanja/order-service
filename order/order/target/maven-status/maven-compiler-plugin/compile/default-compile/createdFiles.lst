@@ -1,0 +1,6 @@
+com\scalable\order\entity\Order.class
+com\scalable\order\controller\OrderController.class
+com\scalable\order\service\OrderService.class
+com\scalable\order\repository\OrderRepository.class
+com\scalable\order\service\impl\OrderServiceImpl.class
+com\scalable\order\OrderApplication.class
